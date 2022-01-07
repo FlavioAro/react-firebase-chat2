@@ -5,14 +5,6 @@ CSS.
 
 ![10](https://user-images.githubusercontent.com/35077695/147526010-1c65fe11-5a99-4000-ac96-ced37d7376e2.PNG)
 
-REACT_APP_API_KEY=""
-REACT_APP_AUTH_DOMAIN=""
-REACT_APP_AUTH_PROJECT_ID=""
-REACT_APP_STORAGE_BUCKET=""
-REACT_APP_MESSAGING_SENDER_ID=""
-REACT_APP_APP_ID=""
-REACT_APP_MEASUREMENT_ID=""
-
 Watch the tutorial on how to build this app from scratch:
 
 ## create-react-app
